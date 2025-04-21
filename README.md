@@ -1,4 +1,4 @@
-# Verbali website
+# Verbali dashboard
 
 ## Running project
 
