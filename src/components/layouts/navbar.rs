@@ -1,7 +1,7 @@
-use crate::components::icons::{FormIcon, HomeIcon};
 use crate::components::layouts::NavbarItem;
 use crate::Route;
 use dioxus::prelude::*;
+use verbali_design_system::components::icons::{FormIcon, HomeIcon};
 
 #[component]
 pub fn Navbar() -> Element {

@@ -1,7 +1,6 @@
-use crate::components::icons::AccountIcon;
-use crate::components::logos::FullLogo;
 use crate::Route;
 use dioxus::prelude::*;
+use verbali_design_system::components::{icons::AccountIcon, logos::FullLogo};
 
 #[component]
 pub fn Header() -> Element {

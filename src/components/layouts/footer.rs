@@ -1,5 +1,7 @@
-use crate::components::icons::{FacebookIcon, GithubIcon, InstagramIcon, LinkedinIcon};
 use dioxus::prelude::*;
+use verbali_design_system::components::icons::{
+    FacebookIcon, GithubIcon, InstagramIcon, LinkedinIcon,
+};
 
 #[component]
 pub fn Footer() -> Element {
